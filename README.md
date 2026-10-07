@@ -4,7 +4,7 @@ I study Computational Sciences at Minerva University (class of 2029), a programm
 
 ### Projects
 
-- **[Serotonin Pod](https://github.com/amirassyl/serotonin-pod)** – a browser experience prototyped for the Exploratorium with a team of five. Tracks your body pose with MediaPipe and guides you with an ElevenLabs voice agent. TypeScript, React.
+- **[Serotonin Pod](https://github.com/amirassyl/serotonin-pod)** – a web experience prototyped for the Exploratorium with a team of five. Tracks your body pose with MediaPipe and guides you with an ElevenLabs voice agent. TypeScript, React.
 - **[SF Location Intel](https://github.com/amirassyl/sf-location-intel)** – hackathon project for a local newsroom: San Francisco open data on permits, incidents and businesses in one place, plus a daily email digest on Cloudflare Workers.
 - **[SIR epidemic simulation](https://github.com/amirassyl/sir-epidemic-simulation)** – COVID-19 spread in Karaganda, Kazakhstan, modelled with Euler's method written from scratch. Python.
 - **[Breast cancer cell statistics](https://github.com/amirassyl/breast-cancer-statistics)** – hypothesis testing and regression on the Wisconsin diagnostic dataset. Python, SciPy, statsmodels.
