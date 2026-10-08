@@ -1,6 +1,6 @@
 ## Hi, I'm Amirassyl🌟
 
-I study Computational Sciences at Minerva University (class of 2029), a programme that moves between cities; this semester I'm in Tokyo. I'm from Kazakhstan.
+I study Computational Sciences at Minerva University (class of 2029), a programme that moves between countries; this semester I'm in Tokyo.
 
 ### Projects
 
